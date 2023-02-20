@@ -1,0 +1,17 @@
+#title1 {
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#title2 {
+    background-color: rebeccapurple;
+    color: white;
+    font-style: italic;
+    text-align: center;
+}
+#title3 {
+    background-color: rgb(27, 217, 223);
+    text-decoration: underline;
+    text-align: right;
+}
+
